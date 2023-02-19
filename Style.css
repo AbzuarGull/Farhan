@@ -1,0 +1,45 @@
+.or{
+    background-color: rgb(255, 126, 6) !important;
+}
+.bor{
+    border-radius: 0% !important;
+}
+.i{
+    width: 20% !important ; 
+    /* text-align: center !important ; */
+    /* padding-right: 19%;  */
+    
+}
+.or1{
+    color: rgb(255, 126, 6) !important;
+}
+.cen{
+    text-align: center !important;
+    /* background-color: antiquewhite; */
+}
+.cen h1{
+        text-align: center !important ;
+        font-weight: 700;
+}
+.padding{
+    padding-left: 30%;
+}
+.big{
+    font-size: x-large;
+    font-weight:100px;
+    text-decoration: underline;
+    border-bottom: 1px solid black;
+}
+.bigt{
+    font-size:large;
+
+}
+.sm{
+    font-size: small;
+}
+.margin{
+    margin-right: 0% !important;
+}
+.ra{
+    border-radius: 0%;
+}
